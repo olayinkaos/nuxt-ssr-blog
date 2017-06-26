@@ -1,0 +1,34 @@
+[
+	{
+		"id": 4,
+		"title": "Building universal JS apps with Nuxt.js",
+		"summary": "Get introduced to Nuxt.js, and build great SSR Apps with Vue.js.",
+		"content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+		"author": "Jane Doe",
+		"published": "08:00 - 07/06/2017"
+	},
+	{
+		"id": 3,
+		"title": "Great SSR Use cases",
+		"summary": "See simple and rich server rendered JavaScript apps.",
+		"content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+		"author": "Jane Doe",
+		"published": "17:00 - 06/06/2017"
+	},
+	{
+		"id": 2,
+		"title": "SSR in Vue.js",
+		"summary": "Learn about SSR in Vue.js, and where Nuxt.js can make it all faster.",
+		"content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+		"author": "Jane Doe",
+		"published": "13:00 - 06/06/2017"
+	},
+	{
+		"id": 1,
+		"title": "Introduction to SSR",
+		"summary": "Learn about SSR in JavaScript and how it can be super cool.",
+		"content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+		"author": "John Doe",
+		"published": "11:00 - 06/06/2017"
+	}
+]
