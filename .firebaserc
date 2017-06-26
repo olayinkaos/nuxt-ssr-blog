@@ -1,0 +1,5 @@
+{
+  "projects": {
+    "ssr": "nuxt-ssr-blog"
+  }
+}

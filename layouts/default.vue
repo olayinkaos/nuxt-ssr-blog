@@ -4,11 +4,11 @@
     <nav class="nav has-shadow">
       <div class="container">
         <div class="nav-left">
-          <nuxt-link to="" class="nav-item">
+          <nuxt-link to="/" class="nav-item" append>
             Awesome JS SSR Blog!
           </nuxt-link>
-          <nuxt-link active-class="is-active" to="" class="nav-item is-tab" exact>Home</nuxt-link>
-          <nuxt-link active-class="is-active" to="about" class="nav-item is-tab" exact>About</nuxt-link>
+          <nuxt-link active-class="is-active" to="/" class="nav-item is-tab" exact append>Home</nuxt-link>
+          <nuxt-link active-class="is-active" :to="{ path: 'about' }" class="nav-item is-tab" append>About</nuxt-link>
         </div>
       </div>
     </nav>

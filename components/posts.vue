@@ -25,7 +25,7 @@
           </div>
           <footer class="card-footer">
             <nuxt-link :to="`post/${post.id}`" 
-              class="card-footer-item">
+              class="card-footer-item" append>
               Read More
             </nuxt-link>
           </footer>
