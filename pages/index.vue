@@ -14,7 +14,7 @@
     </div>
   </section>
 
-  <posts></posts>
+  <posts />
 </div>
 </template>
 
