@@ -1,5 +1,5 @@
-# nuxt-ssr-blog
-Serverless static-generated Nuxt.js Universal JavaScript web application.
+# Nuxt.js SSR Blog
+Serverless static-generated Nuxt.js Universal JavaScript web application. You can see the demo app here: https://nuxt-ssr-blog.firebaseapp.com/
 
 > A Nuxt.js project
 
